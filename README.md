@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hello-Script-Kitty, or Ellie.
 - 👀 I’m interested in web design, mental health topics, gaming
 - 🌱 I’m currently learning HTML, CSS, JavaScript
-- 💞️ I’m looking to learn more and collaborate someday!
+- 💞️ I’m looking forward to learning more and collaborating someday!
 - 📫 How to reach me: Probably don't lol
 
 <!---
