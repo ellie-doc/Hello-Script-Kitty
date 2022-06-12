@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Hello-Script-Kitty, or Ellie.
+- 👋 Hi, I’m @Hello-Script-Kitty, or Ellie
+- 🎓 In the fourth year of university, at AUEB, informatics department
 - 👀 I’m interested in web design, mental health topics, gaming
-- 🌱 I’m currently learning HTML, CSS, JavaScript
-- 💞️ I’m looking forward to learning more and collaborating someday!
-- 📫 How to reach me: Probably don't lol
+- 🌱 I’m currently learning HTML, CSS, JUnit testing
+- 💞️ I’m looking forward to learning more and be creative
+- 📫 Instagram: elfie.jpg
 
 <!---
 Hello-Script-Kitty/Hello-Script-Kitty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
