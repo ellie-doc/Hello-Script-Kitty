@@ -3,7 +3,7 @@
 - 👀 I’m interested in web design, mental health topics, gaming
 - 🌱 I’m currently learning about Network Security
 - 💞️ I’m looking forward to learning more and be creative
-- 📫 Instagram: elfie.jpg
+- 📫 My <a href="www.linkedin.com/in/ellie-doc">Linkedin</a>
 
 <!---
 Hello-Script-Kitty/Hello-Script-Kitty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
