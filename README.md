@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hello-Script-Kitty, or Ellie
 - 🎓 In the fourth year of university, at AUEB, informatics department
 - 👀 I’m interested in web design, mental health topics, gaming
-- 🌱 I’m currently learning HTML, CSS, JUnit testing
+- 🌱 I’m currently learning about Network Security
 - 💞️ I’m looking forward to learning more and be creative
 - 📫 Instagram: elfie.jpg
 
